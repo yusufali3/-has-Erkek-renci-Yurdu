@@ -1,0 +1,206 @@
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\appsettings.json
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\ihlaserkekogrenciyurdu.staticwebassets.runtime.json
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\ihlaserkekogrenciyurdu.exe
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\ihlaserkekogrenciyurdu.deps.json
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\ihlaserkekogrenciyurdu.runtimeconfig.json
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\ihlaserkekogrenciyurdu.dll
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\ihlaserkekogrenciyurdu.pdb
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.AssemblyInfoInputs.cache
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.AssemblyInfo.cs
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.RazorAssemblyInfo.cache
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.RazorAssemblyInfo.cs
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets\msbuild.ihlaserkekogrenciyurdu.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets\msbuild.build.ihlaserkekogrenciyurdu.props
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ihlaserkekogrenciyurdu.props
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ihlaserkekogrenciyurdu.props
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\scopedcss\bundle\ihlaserkekogrenciyurdu.styles.css
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\scopedcss\projectbundle\ihlaserkekogrenciyurdu.bundle.scp.css
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.dll
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\refint\ihlaserkekogrenciyurdu.dll
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.pdb
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.genruntimeconfig.cache
+C:\Users\Yusuf\source\repos\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ref\ihlaserkekogrenciyurdu.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\appsettings.json
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\ihlaserkekogrenciyurdu.staticwebassets.runtime.json
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\ihlaserkekogrenciyurdu.staticwebassets.endpoints.json
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\ihlaserkekogrenciyurdu.exe
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\ihlaserkekogrenciyurdu.deps.json
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\ihlaserkekogrenciyurdu.runtimeconfig.json
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\ihlaserkekogrenciyurdu.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\ihlaserkekogrenciyurdu.pdb
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.AssemblyInfoInputs.cache
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.AssemblyInfo.cs
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.csproj.CoreCompileInputs.cache
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.RazorAssemblyInfo.cache
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.RazorAssemblyInfo.cs
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\scopedcss\bundle\ihlaserkekogrenciyurdu.styles.css
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\scopedcss\projectbundle\ihlaserkekogrenciyurdu.bundle.scp.css
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets\msbuild.ihlaserkekogrenciyurdu.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets\msbuild.ihlaserkekogrenciyurdu.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets\msbuild.build.ihlaserkekogrenciyurdu.props
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ihlaserkekogrenciyurdu.props
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ihlaserkekogrenciyurdu.props
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\refint\ihlaserkekogrenciyurdu.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.pdb
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.genruntimeconfig.cache
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ref\ihlaserkekogrenciyurdu.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.csproj.AssemblyReference.cache
+C:\Users\harun\Desktop\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserk.2A121504.Up2Date
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\appsettings.Development.json
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\appsettings.json
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\ihlaserkekogrenciyurdu.staticwebassets.runtime.json
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\ihlaserkekogrenciyurdu.exe
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\ihlaserkekogrenciyurdu.deps.json
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\ihlaserkekogrenciyurdu.runtimeconfig.json
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\ihlaserkekogrenciyurdu.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\ihlaserkekogrenciyurdu.pdb
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Azure.Core.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Azure.Identity.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.ClientModel.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Memory.Data.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Text.Json.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.csproj.AssemblyReference.cache
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.AssemblyInfoInputs.cache
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.AssemblyInfo.cs
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.csproj.CoreCompileInputs.cache
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.RazorAssemblyInfo.cache
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.RazorAssemblyInfo.cs
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets.build.json
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets.development.json
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets\msbuild.ihlaserkekogrenciyurdu.Microsoft.AspNetCore.StaticWebAssets.props
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets\msbuild.build.ihlaserkekogrenciyurdu.props
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ihlaserkekogrenciyurdu.props
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ihlaserkekogrenciyurdu.props
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\staticwebassets.pack.json
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\scopedcss\bundle\ihlaserkekogrenciyurdu.styles.css
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\scopedcss\projectbundle\ihlaserkekogrenciyurdu.bundle.scp.css
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserk.2A121504.Up2Date
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\refint\ihlaserkekogrenciyurdu.dll
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.pdb
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ihlaserkekogrenciyurdu.genruntimeconfig.cache
+E:\New folder (2)\ihlaserkekogrenciyurdu\ihlaserkekogrenciyurdu\obj\Debug\net8.0\ref\ihlaserkekogrenciyurdu.dll

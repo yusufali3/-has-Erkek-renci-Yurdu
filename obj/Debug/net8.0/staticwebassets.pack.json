@@ -1,0 +1,861 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ihlaserkekogrenciyurdu.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ihlaserkekogrenciyurdu.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\img\\Thumbs.db"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\banyo.jpg",
+      "PackagePath": "staticwebassets\\img\\banyo.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-2.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-3.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\camasir.jpg",
+      "PackagePath": "staticwebassets\\img\\camasir.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\fact-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\fact-bg.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\first1.jpg",
+      "PackagePath": "staticwebassets\\img\\first1.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\first2.jpg",
+      "PackagePath": "staticwebassets\\img\\first2.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\foto1.jpg",
+      "PackagePath": "staticwebassets\\img\\foto1.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\foto10.jpg",
+      "PackagePath": "staticwebassets\\img\\foto10.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\foto11.jpg",
+      "PackagePath": "staticwebassets\\img\\foto11.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\foto12.jpg",
+      "PackagePath": "staticwebassets\\img\\foto12.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\foto2.jpg",
+      "PackagePath": "staticwebassets\\img\\foto2.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\foto3.jpg",
+      "PackagePath": "staticwebassets\\img\\foto3.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\foto4.jpg",
+      "PackagePath": "staticwebassets\\img\\foto4.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\foto5.jpg",
+      "PackagePath": "staticwebassets\\img\\foto5.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\foto6.jpg",
+      "PackagePath": "staticwebassets\\img\\foto6.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\foto7.jpg",
+      "PackagePath": "staticwebassets\\img\\foto7.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\foto8.jpg",
+      "PackagePath": "staticwebassets\\img\\foto8.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\foto9.jpg",
+      "PackagePath": "staticwebassets\\img\\foto9.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\gezi.jpg",
+      "PackagePath": "staticwebassets\\img\\gezi.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\kitap.jpg",
+      "PackagePath": "staticwebassets\\img\\kitap.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\otobus.jpg",
+      "PackagePath": "staticwebassets\\img\\otobus.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\product-2.png",
+      "PackagePath": "staticwebassets\\img\\product-2.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\water.png",
+      "PackagePath": "staticwebassets\\img\\water.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\wifi.jpg",
+      "PackagePath": "staticwebassets\\img\\wifi.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\yatak.jpg",
+      "PackagePath": "staticwebassets\\img\\yatak.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\img\\yemek.jpg",
+      "PackagePath": "staticwebassets\\img\\yemek.jpg"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "E:\\New folder (2)\\ihlaserkekogrenciyurdu\\ihlaserkekogrenciyurdu\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ihlaserkekogrenciyurdu.props",
+      "PackagePath": "build\\ihlaserkekogrenciyurdu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ihlaserkekogrenciyurdu.props",
+      "PackagePath": "buildMultiTargeting\\ihlaserkekogrenciyurdu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ihlaserkekogrenciyurdu.props",
+      "PackagePath": "buildTransitive\\ihlaserkekogrenciyurdu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ihlaserkekogrenciyurdu.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
