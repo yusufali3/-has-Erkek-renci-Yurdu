@@ -1,0 +1,83 @@
+﻿@{
+    ViewData["Title"] = "Kayıt Ol";
+}
+
+<!-- Carousel Start -->
+<div class="carousel-header">
+    <div id="carouselId" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner" role="listbox">
+            <div class="carousel-item active">
+                <img src="~/img/first1.jpg" class="img-fluid w-100" alt="Image">
+
+                <center>
+                    <h1>Kayıt Ol</h1>
+
+                    <!-- Form Başlangıcı -->
+                    <form method="post" action="/Home/Sign_Up" class="p-4 border rounded">
+
+                        <!-- Ad -->
+                        <div class="row form-group">
+                            <div class="col-md-12 mb-3 mb-md-0">
+                                <label class="text-black" for="ad">Ad</label>
+                                <input type="text" id="ad" name="ad" class="form-control" placeholder="Ad" required>
+                            </div>
+                        </div>
+
+                        <!-- Soyad -->
+                        <div class="row form-group">
+                            <div class="col-md-12 mb-3 mb-md-0">
+                                <label class="text-black" for="soyad">Soyad</label>
+                                <input type="text" id="soyad" name="soyad" class="form-control" placeholder="Soyad" required>
+                            </div>
+                        </div>
+
+                        <!-- Email -->
+                        <div class="row form-group">
+                            <div class="col-md-12 mb-3 mb-md-0">
+                                <label class="text-black" for="email">Email</label>
+                                <input type="email" id="email" name="email" class="form-control" placeholder="Email adres" required>
+                            </div>
+                        </div>
+
+                        <!-- Telefon Numarası -->
+                        <div class="row form-group">
+                            <div class="col-md-12 mb-3 mb-md-0">
+                                <label class="text-black" for="telno">Telefon numarası</label>
+                                <input type="text" id="telno" name="telno" class="form-control" placeholder="Telefon numarası" required>
+                            </div>
+                        </div>
+
+                        <!-- Doğum Tarihi -->
+                        <div class="row form-group">
+                            <div class="col-md-12 mb-3 mb-md-0">
+                                <label class="text-black" for="dogumtarihi">Doğum tarihi</label>
+                                <input type="date" id="dogumtarihi" name="dogumtarihi" class="form-control" placeholder="Doğum tarihi" required>
+                            </div>
+                        </div>
+
+                        <!-- Şifre -->
+                        <div class="row form-group">
+                            <div class="col-md-12 mb-3 mb-md-0">
+                                <label class="text-black" for="sifre">Şifre</label>
+                                <input type="password" id="sifre" name="sifre" class="form-control" placeholder="Şifre" required>
+                            </div>
+                        </div>
+
+                        <!-- Kayıt Ol Butonu -->
+                        <div class="row form-group">
+                            <div class="col-md-12">
+                                <button type="submit" class="btn btn-primary rounded-pill d-inline-flex flex-shrink-0 py-2 px-4">
+                                    Kayıt Ol
+                                </button>
+                            </div>
+                        </div>
+
+                    </form>
+                    <!-- Form Bitişi -->
+
+                </center>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Carousel End -->

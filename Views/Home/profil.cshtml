@@ -1,0 +1,25 @@
+﻿@model ihlaserkekogrenciyurdu.Models.Kullanicilar
+
+@{
+    ViewData["Title"] = "Profil";
+}
+
+<div class="carousel-header">
+    <div id="carouselId" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner" role="listbox">
+            <div class="carousel-item active">
+                <img src="~/img/first1.jpg" class="img-fluid w-100" alt="Image">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="profil-header">
+    <center><h1>@Model.Ad @Model.Soyad</h1> <!-- Ad ve Soyad --></center>
+    <form action="#" class="p-4 border rounded">
+        <label>Email: @Model.Email</label><br><br>
+        <label>Telefon Numarası: @Model.TelNo</label><br><br>
+        <label>Doğum Tarihi: @Model.DogumTarihi.ToShortDateString()</label><br><br>
+        <label>Bölüm: @Model.Bolum</label><br><br>
+    </form>
+</div>

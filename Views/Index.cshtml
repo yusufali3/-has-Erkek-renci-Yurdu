@@ -1,0 +1,50 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Eğer bir layout kullanıyorsanız
+}
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Sayfası</title>
+</head>
+<body>
+    <form>
+        <!-- Ad Alanı -->
+        <div>
+            <label for="ad">Ad:</label>
+            <input type="text" id="ad" name="ad" placeholder="Adınızı Girin" required>
+        </div>
+
+        <!-- Soyad Alanı -->
+        <div>
+            <label for="soyad">Soyad:</label>
+            <input type="text" id="soyad" name="soyad" placeholder="Soyadınızı Girin" required>
+        </div>
+
+        <!-- Email Alanı -->
+        <div>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" placeholder="Email Adresiniz" required>
+        </div>
+
+        <!-- Telefon Alanı -->
+        <div>
+            <label for="phone">Telefon:</label>
+            <input type="tel" id="phone" name="phone" placeholder="Telefon Numaranız">
+        </div>
+
+        <!-- Şifre Alanı -->
+        <div>
+            <label for="sifre">Şifre:</label>
+            <input type="password" id="sifre" name="sifre" placeholder="Şifrenizi Girin" required>
+        </div>
+
+        <!-- Gönder Butonu -->
+        <div>
+            <button type="submit">Gönder</button>
+        </div>
+    </form>
+</body>
+</html>
